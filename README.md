@@ -1,4 +1,4 @@
-# Platon Blockchain Browser
+# Platon Blockchain Browser -v2
 
 ## start
 
